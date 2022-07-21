@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoorim960&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 안녕하세요 👋🏻  
 기초를 중시하는 개발자 **박우림** 이에요 🧑🏻‍💻 
 
@@ -44,4 +46,8 @@
 - Youtube : [우리밋_woorimIT](https://www.youtube.com/channel/UCS0F25vig_sPIQXMiK8IdSg)
 - LinkedIn : [Woorim Park - Profile](https://www.linkedin.com/in/woorim-park-003b51216/)
 - Blog : [세상의 잣대가 아닌](https://blog.naver.com/dnfla420)
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorim960&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
