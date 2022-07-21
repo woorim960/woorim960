@@ -43,7 +43,6 @@
 - SQL
 
 ## 📻 Channels
-![Youtube](https://img.shields.io/endpoint?logo=youtube&logoColor=red&label=Youtube)
 - Youtube : [우리밋_woorimIT](https://www.youtube.com/channel/UCS0F25vig_sPIQXMiK8IdSg)
 - LinkedIn : [Woorim Park - Profile](https://www.linkedin.com/in/woorim-park-003b51216/)
 - Blog : [세상의 잣대가 아닌](https://blog.naver.com/dnfla420)
