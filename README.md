@@ -1,16 +1,47 @@
-### Hi there 👋
+안녕하세요 👋🏻  
+기초를 중시하는 개발자 **박우림** 이에요 🧑🏻‍💻 
 
-<!--
-**woorim960/woorim960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Career
+| Date | Organization | Job | Team |
+| - | - | - | - |
+| 2022.06 *~ing* | ***[Gmarket](https://gmarketcareers.com/)*** | Software Engineer | Seller & SD Engineering |
+| 2021.09 - 2022.03 | ***Pre-StartUp*** | Representative & Tech Leader |  |
+| 2020.12 *~ing* | ***[Modern Agile](https://modern-agile-official-client.vercel.app/)*** | Representative & Tech Leader | |
 
-Here are some ideas to get you started:
+## 🏆 Awards
+| Date | Award |
+| - | - |
+| 2021.12 | 글로벌 가상 창업 **전세계 2위** (<i>7,000개 기업 중..</i>) |
+| 2021.12 | 국내 최대 규모 IT 해커톤 **상위 10프로** (<i>400개 팀 중..</i>) |
+| 2021.04 | 스타트인_노원 창업경진대회 **최우수상** |
+| 2020.06 - 2020.11 | 국내 최대 규모 공개 SW 개발자 대회 **대상(학생부문<대학원 포함> 1위)** (<i>400개 팀 중..</i>) |
+| 2019.01 - 2019.02 | 인턴 경진대회 **최우수상(IT 1위)** |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech
+### Front
+- HTML5, CSS3, JavaScript(ES6), TypeScript
+- React.js, React-Native.js, Vue.js, Styled-Component
+
+### Back
+- Node.js, Express.js, Nest.js, Spring Boot(Java)
+- TypeORM, JPA, Mongoose
+- MySQL, MariaDB, Oracle, MongoDB, Redis
+
+### DevOps
+- Git/GitHub
+- Nginx, Docker, Jenkins
+- *Test* Jest.js, Junit(Java)
+
+### Cloud
+- *AWS* EC2, RDS, S3, Labmda...
+- NHN, Google Cloud, Heroku...
+
+### Language
+- Python3, JavaScript(ES6), TypeScript, Java...
+- SQL
+
+## 📻 Channels
+- Youtube : [우리밋_woorimIT](https://www.youtube.com/channel/UCS0F25vig_sPIQXMiK8IdSg)
+- LinkedIn : [Woorim Park - Profile](https://www.linkedin.com/in/woorim-park-003b51216/)
+- Blog : [세상의 잣대가 아닌](https://blog.naver.com/dnfla420)
+
