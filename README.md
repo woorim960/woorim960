@@ -4,7 +4,7 @@
 ## 💼 Career
 | Date | Organization | Job | Team |
 | - | - | - | - |
-| 2022.06 *~ing* | ***[Gmarket](https://gmarketcareers.com/)*** | Software Engineer | Seller & SD Engineering |
+| *~ing* | ***[Gmarket](https://gmarketcareers.com/)*** | Software Engineer | Seller & SD Engineering |
 | 2021.09 - 2022.03 | ***Pre-StartUp*** | Representative & Tech Leader |  |
 | 2020.12 *~ing* | ***[Modern Agile](https://modern-agile-official-client.vercel.app/)*** | Representative & Tech Leader | |
 
