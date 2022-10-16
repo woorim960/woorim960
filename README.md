@@ -27,18 +27,18 @@
 - React.js, React-Native.js, Vue.js, Styled-Component
 
 ### Back
-- Node.js, Express.js, Nest.js, Spring Boot(Java)
+- Node.js, Express.js, Nest.js, Spring Boot(Java), .NET(C#)
 - TypeORM, JPA, Mongoose
 - MySQL, MariaDB, Oracle, MongoDB, Redis
 
 ### DevOps
 - Git/GitHub
 - Nginx, Docker, Jenkins
-- *Test* Jest.js, Junit(Java)
+- *Test* Jest.js
 
 ### Cloud
 - *AWS* EC2, RDS, S3, Labmda...
-- NHN, Google Cloud, Heroku...
+- Oracle, NHN, GCP, Heroku...
 
 ### Language
 - Python3, JavaScript(ES6), TypeScript, Java...
